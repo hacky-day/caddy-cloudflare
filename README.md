@@ -2,6 +2,7 @@
 
 Automatically built Caddy containers with Cloudflare DNS plugin included.
 
+
 ## Docker Compose Example
 
 ```yaml
@@ -24,6 +25,7 @@ volumes:
   caddy_data:
   caddy_config:
 ```
+
 
 ## Caddyfile Example
 
